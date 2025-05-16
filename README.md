@@ -1,5 +1,15 @@
 # 📚 CodTech E-Learning Platform UI (Frontend)
 
+
+## 🏢 Company: CodTech IT Solutions
+
+- **Intern Name:** Saurav Kumar  
+- **Intern ID:** CT06DA402  
+- **Domain:** Front-End Development  
+- **Duration:** 4 Weeks  
+- **Mentor:** Neela Santosh
+
+
 This is a **multi-page, responsive front-end UI** for an E-Learning platform. It features modern design with pages for **home**, **courses**, **progress tracking**, **profile**, and **certificates** – built using **React.js** and **Tailwind CSS**.
 
 ---
