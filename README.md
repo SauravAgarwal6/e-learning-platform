@@ -6,7 +6,7 @@
 - **Intern Name:** Saurav Kumar  
 - **Intern ID:** CT06DA402  
 - **Domain:** Front-End Development  
-- **Duration:** 4 Weeks  
+- **Duration:** 6 Weeks  
 - **Mentor:** Neela Santosh
 
 
